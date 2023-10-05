@@ -1,0 +1,423 @@
+    1  mkdir git_test
+    2  mkdir git_test
+    3  cd git_test
+    4  echo "# ice-task" >> README.md
+    5  git init
+    6  git add README.md
+    7  git commit -m "first commit"
+    8  git branch -M main
+    9  git remote add origin https://github.com/vcPrecious/ice-task.git
+   10  git push -u origin main
+   11  git status
+   12  get status
+   13  git status
+   14  git status
+   15  git status
+   16  git status
+   17  git init
+   18  git status
+   19  git add README.md
+   20  git status
+   21  git commit -m "first commit"
+   22  git remote -
+   23  git add README.md
+   24  git push origin
+   25  git push origin master
+   26  git remote -v
+   27  git push origin
+   28  git push origin master
+   29  git commit -m "first commit"
+   30  git add README.md
+   31  git init
+   32  git status
+   33  [200~echo "# icey" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git branch -M main
+   38  git remote add origin https://github.com/vcPrecious/icey.git
+   39  git push -u origin main
+   40  git status
+   41  git remote add origin https://github.com/vcPrecious/icey.git
+   42  git branch -M main
+   43  git push -u origin main
+   44  cd [200~C:\Users\vashti\Desktop\gitrepo~
+   45  cd /C
+   46  cd Users/vashti/Desktop/gitrepo/
+   47  git init
+   48  git status
+   49  cd icetask
+   50  git status
+   51  cd new.ssh
+   52  cd desktop
+   53  cd new.ssh
+   54  new.ssh> $ ssh-keygen -t rsa -b 4096-C "st10119223@vcconnect.edu.za" -f id_vc
+   55  ssh-keygen -t rsa -b 4096-C "st10119223@vcconnect.edu.za" -f id_vc
+   56  ssh-keygen -t rsa -b 4096 -C "st10119223@vcconnect.edu.za" -f id_vc
+   57  eval "$(ssh-agent -s)"
+   58  ssh-add id_vc
+   59  cat id_vc
+   60   cat id_vc.pub 
+   61  run
+   62  git clone <[200~git@github.com:vcPrecious/gitPrac.git~>
+   63  git clone <git@github.com:vcPrecious/gitPrac.git>
+   64  git clone [200~git@github.com:vcPrecious/gitPrac.git~
+   65  git clone git@github.com:vcPrecious/gitPrac.git
+   66  git clone <git@github.com:vcPrecious/gitPrac.git>
+   67  git clone git clone git@github.com:vcPrecious/gitPrac.git
+   68  git clone git@github.com:vcPrecious/gitPrac.git
+   69  git commit -m"Updated README.md"
+   70  cd..
+   71  cd .. (go back)
+   72  git commit -m"Updated README.md"
+   73  clear
+   74  git cheackout -b <branch name>
+   75  git checkout -b <branch name
+   76  git checkout <branch name>
+   77  git checkout "my-branch"
+   78  git checkout "gitPrac"
+   79  $ git checkout "main"
+   80  git checkout -b "branch"
+   81  git add "file name"
+   82  cd ..
+   83  git add "file"
+   84  clear
+   85  git add "file"
+   86  Function Key 11
+   87  git checkout -b 001-update-README.md
+   88  git add "file"
+   89  ll
+   90   cd
+   91   cd gitPrac
+   92   git colnee git@github.com:vcPrecious/gitPrac.git
+   93   git clone git@github.com:vcPrecious/gitPrac.git
+   94  cd gitPrac/
+   95  git checkout -b "branch"
+   96  git add "file"
+   97  git add "README.md"
+   98  git commit -m "My commit message"
+   99  git push --set-upstream orgin "branch"
+  100  git push --set-upstream origin "branch"
+  101  git push
+  102  sqlplus -V
+  103  [200~which sqldeveloper
+  104  which sqldeveloper
+  105  sqlplus
+  106  sqlplus / as sysdba
+  107  sqlplus
+  108  ls
+  109  ls /
+  110  pwd
+  111  mkdir newDirectory
+  112  cd newDirectory
+  113  pwd
+  114  cd home
+  115  cd /
+  116  cd
+  117  pwd
+  118  cd/newDirectory
+  119  cd newDirectory
+  120  ls ../../
+  121  man
+  122  man ls
+  123  rmdir newDirectory/
+  124  clear
+  125  cd
+  126  pwd
+  127  cd desktop 
+  128  cd umuzi
+  129  cd Task_1\ coding/
+  130  git statsus
+  131  git status
+  132  [200~
+  133  rd /s /q .git
+  134  rm -rf .git
+  135  ls -a
+  136  git status
+  137  git init
+  138  git checkout -b hello/test
+  139  git add hello.js
+  140  git commit -m "adding hello.js to test branch."
+  141  git remote add origin https://github.com/Umuzi-org/Precious-Mhlabine-219-level-1-programming-katas-javascript.git
+  142  git push -u origin hello/test
+  143  git status
+  144  git checkout main
+  145  git branch -M main
+  146  git checkout main
+  147  git pull
+  148  git checkout hello/test
+  149  git checkout main
+  150  git status
+  151  git branch -d hello/test
+  152  git push origin -- delete hello/test
+  153  git status
+  154  git checkout hello/test
+  155  git checkout main
+  156  git pull
+  157  git chekout -b task/1
+  158  git checkout -b task/1
+  159  git add task_1.js
+  160  git commit -m "task 1"
+  161  git push -u origin task/1
+  162  git status
+  163  git checkout main
+  164  git pull
+  165  git checkout -b task/2
+  166  git status
+  167  git add task_2.js
+  168  git commit -m "task 2"
+  169  git push origin task/2
+  170  git checkout main
+  171  git pull
+  172  get checout -b task/3
+  173  git checkout -b task/3
+  174  git add task_3.js
+  175  git commit -m "task 3"
+  176  git push origin task/3
+  177  git checkout main
+  178  git pull
+  179  git checkout -b task/4
+  180  git add task_4.js
+  181  git commit -m "task 4"
+  182  git push origin task/4
+  183  git checkout main
+  184  git pull
+  185  git checkout -b task/5
+  186  git add task_5.js
+  187  git commit -m "task 5"
+  188  git push origin task/5
+  189  git checkout main
+  190  git pull
+  191  git checkout -b task/6
+  192  git add task_6.js
+  193  git commit -m "task 6"
+  194  git push origin task/6
+  195  git status
+  196  git checkout main
+  197  git pull
+  198  git checkout -b task/7
+  199  git add task_7.js
+  200  git commit -m "task 7"
+  201  git push origin task/7
+  202  git status
+  203  pwd
+  204  cd desktop
+  205  cd umuzi
+  206  cd Task_1 coding
+  207  cd Task_1 coding/
+  208  cd Task_1\ coding/
+  209  git status
+  210  git checkout task/1
+  211  git pull origin main
+  212  git checkout main
+  213  git status
+  214  git branch -vv
+  215  git branch -vv
+  216  git branch -D hello/test
+  217  git push origin --delete hello/test
+  218  git branch -vv
+  219  git branch --unset-upstream main
+  220  git branch -vv
+  221  git checkout main
+  222  git pull origin main
+  223  git push origin task/1
+  224  cd umuzi
+  225  pwd
+  226  cd desktop
+  227  cd umuzi
+  228  rm - r Task_1\ coding/
+  229  rm -r "Task_1 coding/"
+  230  cd umuzi
+  231  cd desktop
+  232  cd umuzi
+  233  rm -rf "Task_1 coding/"
+  234  cd desktop
+  235  cd umuzit
+  236  cd umuzi
+  237  cd codingChallenge1/
+  238  git init
+  239  git remote add origin https://github.com/Umuzi-org/Precious-Mhlabine-219-level-1-programming-katas-javascript.git
+  240  git remote -v
+  241  git status
+  242  git checkout main
+  243  ls
+  244  git branch
+  245  ls
+  246  git status
+  247  ls -a
+  248  git checkout main
+  249  git diff main origin/main
+  250  git push -u origin main
+  251  git branch -r
+  252  git ls-remote
+  253  git ls-remote --heads origin
+  254  [200~git checkout -b main origin/main
+  255  git checkout -b main origin/main
+  256  git fetch origin
+  257  checkout main
+  258  git checkout main
+  259  git pull
+  260  git checkout -b task/1
+  261  git add task1.js
+  262  git commit -m "task1"
+  263  git push origin task/1
+  264  git checkout main
+  265  git pull
+  266  git checkout -b task/2
+  267  git add task2.js
+  268  git commit -m "task2"
+  269  git push origin task/2
+  270  git checkout main
+  271  git pull
+  272  git checkout -b task/3
+  273  git add task3.js
+  274  git commit -m "task3"
+  275  git push origin task/3
+  276  git checkout main
+  277  git pull
+  278  git checkout -b task/4
+  279  git add task4.js
+  280  git commit -m "task4"
+  281  git push origin task/4
+  282  git checkout main
+  283  git pull
+  284  git checkout -b task/5
+  285  git add task5.js
+  286  git commit -m "task5"
+  287  git push origin task/5
+  288  git checkout main
+  289  git pull
+  290  git checkout -b task/6
+  291  git add task6.js
+  292  git commit -m "task6"
+  293  git push origin task/6
+  294  git checkout main
+  295  git pull
+  296  git checkout -b task/7
+  297  git add task7.js
+  298  git commit -m "task7"
+  299  git push origin task/7
+  300  cd desktop
+  301  cd umuzi
+  302  cd task 1 Questions
+  303  cd Task\ 1\ Questions
+  304  git clone
+  305  git clone https://github.com/Umuzi-org/Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-.git
+  306  clear
+  307  git pull origin main
+  308  git clone https://github.com/Umuzi-org/Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-.git
+  309  ls
+  310  git status
+  311  pwd
+  312  cd 
+  313  cd Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-/
+  314  git status
+  315  ls
+  316  git pull origin main
+  317  git branch
+  318  git checkout vcPrecious-patch-3
+  319  git merge main
+  320  git diff
+  321  git status
+  322  git rm important.md
+  323  git commit -m 'delete important.md'
+  324  git push -u origin vcPrecious-patch-3
+  325  git add important.md
+  326  cd umuzi
+  327  cd
+  328  cd desktop
+  329  cd umuzi
+  330  cd Task\ 2\ Questions/
+  331  ls
+  332  git add important.md
+  333  cd
+  334  cd Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-/
+  335  git status
+  336  git add important.md 
+  337  git commit -m 'restore important.md'
+  338  git push origin vcPrecious-patch-3
+  339  git status
+  340  git merge main
+  341  git clone https://github.com/Umuzi-org/Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-.git
+  342  cd Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-/
+  343  git log
+  344  cd Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-/
+  345  git checkout vcPrecious-patch-3 
+  346  git log
+  347  git clone https://github.com/Umuzi-org/Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-.git
+  348  git clone  https://github.com/Umuzi-org/Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-.git
+  349  git status
+  350  cd Precious-Mhlabine-606-tilde-project-tutorial-how-repo-projects-work-/
+  351  git status
+  352  git checkout vcPrecious-patch-3
+  353  git status
+  354  ls
+  355  cd desktop
+  356  cd umuzi
+  357  cd reviews/
+  358  cd umuzi
+  359  cd
+  360  cd desktop
+  361  cd umuzi
+  362  cd reviews/
+  363  rm -rf assets/
+  364  git remote -v
+  365  cd desktop/umuzi
+  366  mkdir git-basics-exercises
+  367  cd git-basics-exercises/
+  368  ls -a
+  369  ls
+  370  git init
+  371  ls
+  372  ls -a
+  373  git status
+  374  touch README.md
+  375  ls -a 
+  376  git status
+  377  git log
+  378  git add README.md
+  379  git status
+  380  git rm --cached README.md 
+  381  git status
+  382  git add README.md 
+  383  git commit -m 'initial commit'
+  384  git loq
+  385  git log
+  386  q
+  387  q
+  388  nano README.md 
+  389  cat README.md 
+  390  git status
+  391  git commit -m 'second commit'
+  392  git add .
+  393  git status
+  394  git commit -m 'second commit'
+  395  git status
+  396  nano README.md 
+  397  git add .
+  398  git commit -m 'third commit'
+  399  git log
+  400  git checkout 8bf8db3f84e66a063538aac018c5d6943582fbb6
+  401  cat README.md 
+  402  git checkout main
+  403  git checkout master
+  404  cat README.md 
+  405  git log
+  406  git branch
+  407  git checkout -b milkshake-flavours
+  408  git branch
+  409  ls -a
+  410  ls
+  411  nano milkshakes.md
+  412  git status 
+  413  git add milkshakes.md 
+  414  git commit -m 'added initial flavours'
+  415  git log
+  416  git push origin milkshake-flavours 
+  417  git status
+  418  git checkout master
+  419  ls -a
+  420  git checkout -b history
+  421  git log
+  422  git branch
+  423  history > history.txt
